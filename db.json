@@ -9,6 +9,21 @@
       "categoryId": 1,
       "name": "Пирожные",
       "imagePath": "https://static.1000.menu/img/content-v2/f2/36/39069/mussovoe-pirojnoe_1568974332_1_max.jpg"
+    },
+    {
+      "categoryId": 2,
+      "name": "Торты",
+      "imagePath": "https://static.1000.menu/img/content-v2/8f/cc/24384/tort-s-tvorojnym-syrom_1613935244_20_max.jpg"
+    },
+    {
+      "categoryId": 3,
+      "name": "Макаронсы",
+      "imagePath": "https://static.1000.menu/img/content-v2/38/ba/40317/domashnie-makarons_1572681969_19_max.jpg"
+    },
+    {
+      "categoryId": 4,
+      "name": "Кексы",
+      "imagePath": "https://static.1000.menu/img/content-v2/d1/2f/5597/shokoladnje-maffinj_1597213776_18_max.jpg"
     }
   ],
   "products": [
