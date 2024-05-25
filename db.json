@@ -41,7 +41,7 @@
       "Name": "Твороженный торт",
       "ImagePath": "https://static.1000.menu/img/content-v2/f8/4c/81637/tvorojnyi-tort-s-tvorojnym-kremom_1704379847_1_max.jpg",
       "Price": 450,
-      "MenuItemId": 0
+      "MenuItemId": 1
     },
     {
       "categoryId": 2,
@@ -49,7 +49,7 @@
       "Name": "Торт Цветок",
       "ImagePath": "https://static.1000.menu/img/content-v2/00/7f/66280/tort-cvetok_1657482880_0_max.jpg",
       "Price": 500,
-      "MenuItemId": 0
+      "MenuItemId": 2
     },
     {
       "categoryId": 2,
@@ -57,7 +57,7 @@
       "Name": "Торт с шоколадными подтёками и фруктами",
       "ImagePath": "https://static.1000.menu/img/content-v2/31/09/16814/tort-s-shokoladnymi-podtekami-i-fruktami_1594898860_34_max.jpg",
       "Price": 550,
-      "MenuItemId": 0
+      "MenuItemId": 3
     },
     {
       "categoryId": 2,
@@ -65,7 +65,7 @@
       "Name": "Торт Наполеон",
       "ImagePath": "https://static.1000.menu/img/content-v2/d8/4a/7520/tort-napoleon-klassicheskii-s-zavarnym-kremom_1706932854_37_max.jpg",
       "Price": 800,
-      "MenuItemId": 0
+      "MenuItemId": 4
     },
     {
       "categoryId": 2,
@@ -73,7 +73,7 @@
       "Name": "Торт в виде книги",
       "ImagePath": "https://static.1000.menu/img/content/16413/tort-kniga-monstr_1467092428_1_max.jpg",
       "Price": 1200,
-      "MenuItemId": 0
+      "MenuItemId": 5
     },
     {
       "categoryId": 2,
@@ -81,7 +81,7 @@
       "Name": "Торт с голубикой",
       "ImagePath": "https://static.1000.menu/img/content-v2/62/b8/39050/tort-s-golubikoi_1636865636_32_max.jpg",
       "Price": 1300,
-      "MenuItemId": 0
+      "MenuItemId": 6
     },
     {
       "categoryId": 3,
@@ -89,7 +89,7 @@
       "Name": "Макарон на итальянской меренге",
       "ImagePath": "https://static.1000.menu/img/content-v2/e1/32/56125/makaron-na-italyanskoi-merenge_1624945953_19_max.jpg",
       "Price": 150,
-      "MenuItemId": 0
+      "MenuItemId": 7
     },
     {
       "categoryId": 3,
@@ -97,7 +97,7 @@
       "Name": "Жасминовый макарон",
       "ImagePath": "https://static.1000.menu/img/content-v2/76/a4/25843/jasminovye-makaron_1633942847_0_max.jpg",
       "Price": 160,
-      "MenuItemId": 0
+      "MenuItemId": 8
     },
     {
       "categoryId": 3,
@@ -105,7 +105,7 @@
       "Name": "Французское печенье Макарон",
       "ImagePath": "https://static.1000.menu/img/content-v2/9a/38/5987/francuzskoe-pechene-makaron1_1677561691_20_max.jpg",
       "Price": 130,
-      "MenuItemId": 0
+      "MenuItemId": 9
     },
     {
       "categoryId": 4,
@@ -113,7 +113,7 @@
       "Name": "Кексы маффины",
       "ImagePath": "https://static.1000.menu/img/content-v2/d1/2f/5597/shokoladnje-maffinj_1597213776_18_max.jpg",
       "Price": 250,
-      "MenuItemId": 0
+      "MenuItemId": 10
     },
     {
       "categoryId": 4,
@@ -121,7 +121,7 @@
       "Name": "Кексы твороженный",
       "ImagePath": "https://static.1000.menu/img/content-v2/49/b2/26177/keks-tvorojnyi-klassicheskii_1650031480_0_max.jpg",
       "Price": 200,
-      "MenuItemId": 0
+      "MenuItemId": 11
     },
     {
       "categoryId": 4,
@@ -129,7 +129,7 @@
       "Name": "Классический капкейк",
       "ImagePath": "https://static.1000.menu/img/content-v2/97/58/18115/klassicheskie-kapkeiki_1664084138_23_max.jpg",
       "Price": 200,
-      "MenuItemId": 0
+      "MenuItemId": 12
     },
     {
       "categoryId": 1,
@@ -137,7 +137,7 @@
       "Name": "Муссовое пирожное",
       "ImagePath": "https://static.tildacdn.com/tild3236-6531-4738-a166-316231646235/d8d12960ece444c8dd4d.jpg",
       "Price": 50,
-      "MenuItemId": 1
+      "MenuItemId": 13
     },
     {
       "categoryId": 0,
@@ -145,7 +145,7 @@
       "Name": "Вишнёвый чизкейк",
       "ImagePath": "https://static.1000.menu/img/content/9500/vishnevji-chizkeik_max_2797.JPG",
       "Price": 270,
-      "MenuItemId": 2
+      "MenuItemId": 14
     },
     {
       "categoryId": 0,
@@ -153,7 +153,7 @@
       "Name": "Черничный чизкейк",
       "ImagePath": "https://kepoper.com/wp-content/uploads/2020/10/loveandoliveoil.jpg",
       "Price": 270,
-      "MenuItemId": 3
+      "MenuItemId": 15
     },
     {
       "categoryId": 0,
@@ -161,15 +161,16 @@
       "Name": "Лимонный чизкейк",
       "ImagePath": "https://aroma-avenue.ru/wp-content/uploads/9/e/9/9e94d04c26a2968a3fbe7e3b281c82f5.jpeg",
       "Price": 270,
-      "MenuItemId": 4
+      "MenuItemId": 16
     }
   ],
   "search": [
     {
       "categoryId": 1,
-      "Name": "Муссовое пирожное",
-      "ImagePath": "https://static.tildacdn.com/tild3236-6531-4738-a166-316231646235/d8d12960ece444c8dd4d.jpg",
-      "Price": 50,
+      "id": 1,
+      "Name": "Пирожное Шу",
+      "ImagePath": "https://static.1000.menu/img/content-v2/b7/fb/32879/zavarnye-pirojnye-shu_1616519431_20_max.jpg",
+      "Price": 100,
       "MenuItemId": 0
     },
     {
@@ -178,7 +179,7 @@
       "Name": "Твороженный торт",
       "ImagePath": "https://static.1000.menu/img/content-v2/f8/4c/81637/tvorojnyi-tort-s-tvorojnym-kremom_1704379847_1_max.jpg",
       "Price": 450,
-      "MenuItemId": 0
+      "MenuItemId": 1
     },
     {
       "categoryId": 2,
@@ -186,15 +187,15 @@
       "Name": "Торт Цветок",
       "ImagePath": "https://static.1000.menu/img/content-v2/00/7f/66280/tort-cvetok_1657482880_0_max.jpg",
       "Price": 500,
-      "MenuItemId": 0
+      "MenuItemId": 2
     },
     {
       "categoryId": 2,
       "id": 2,
       "Name": "Торт с шоколадными подтёками и фруктами",
-      "ImagePath": "https://static.1000.menu/img/content-v2/00/7f/66280/tort-cvetok_1657482880_0_max.jpg",
+      "ImagePath": "https://static.1000.menu/img/content-v2/31/09/16814/tort-s-shokoladnymi-podtekami-i-fruktami_1594898860_34_max.jpg",
       "Price": 550,
-      "MenuItemId": 0
+      "MenuItemId": 3
     },
     {
       "categoryId": 2,
@@ -202,7 +203,7 @@
       "Name": "Торт Наполеон",
       "ImagePath": "https://static.1000.menu/img/content-v2/d8/4a/7520/tort-napoleon-klassicheskii-s-zavarnym-kremom_1706932854_37_max.jpg",
       "Price": 800,
-      "MenuItemId": 0
+      "MenuItemId": 4
     },
     {
       "categoryId": 2,
@@ -210,7 +211,7 @@
       "Name": "Торт в виде книги",
       "ImagePath": "https://static.1000.menu/img/content/16413/tort-kniga-monstr_1467092428_1_max.jpg",
       "Price": 1200,
-      "MenuItemId": 0
+      "MenuItemId": 5
     },
     {
       "categoryId": 2,
@@ -218,7 +219,7 @@
       "Name": "Торт с голубикой",
       "ImagePath": "https://static.1000.menu/img/content-v2/62/b8/39050/tort-s-golubikoi_1636865636_32_max.jpg",
       "Price": 1300,
-      "MenuItemId": 0
+      "MenuItemId": 6
     },
     {
       "categoryId": 3,
@@ -226,7 +227,7 @@
       "Name": "Макарон на итальянской меренге",
       "ImagePath": "https://static.1000.menu/img/content-v2/e1/32/56125/makaron-na-italyanskoi-merenge_1624945953_19_max.jpg",
       "Price": 150,
-      "MenuItemId": 0
+      "MenuItemId": 7
     },
     {
       "categoryId": 3,
@@ -234,7 +235,7 @@
       "Name": "Жасминовый макарон",
       "ImagePath": "https://static.1000.menu/img/content-v2/76/a4/25843/jasminovye-makaron_1633942847_0_max.jpg",
       "Price": 160,
-      "MenuItemId": 0
+      "MenuItemId": 8
     },
     {
       "categoryId": 3,
@@ -242,7 +243,7 @@
       "Name": "Французское печенье Макарон",
       "ImagePath": "https://static.1000.menu/img/content-v2/9a/38/5987/francuzskoe-pechene-makaron1_1677561691_20_max.jpg",
       "Price": 130,
-      "MenuItemId": 0
+      "MenuItemId": 9
     },
     {
       "categoryId": 4,
@@ -250,7 +251,7 @@
       "Name": "Кексы маффины",
       "ImagePath": "https://static.1000.menu/img/content-v2/d1/2f/5597/shokoladnje-maffinj_1597213776_18_max.jpg",
       "Price": 250,
-      "MenuItemId": 0
+      "MenuItemId": 10
     },
     {
       "categoryId": 4,
@@ -258,7 +259,7 @@
       "Name": "Кексы твороженный",
       "ImagePath": "https://static.1000.menu/img/content-v2/49/b2/26177/keks-tvorojnyi-klassicheskii_1650031480_0_max.jpg",
       "Price": 200,
-      "MenuItemId": 0
+      "MenuItemId": 11
     },
     {
       "categoryId": 4,
@@ -266,35 +267,39 @@
       "Name": "Классический капкейк",
       "ImagePath": "https://static.1000.menu/img/content-v2/97/58/18115/klassicheskie-kapkeiki_1664084138_23_max.jpg",
       "Price": 200,
-      "MenuItemId": 0
+      "MenuItemId": 12
     },
     {
       "categoryId": 1,
-      "Name": "Пирожное Шу",
-      "ImagePath": "https://static.1000.menu/img/content-v2/f2/36/39069/mussovoe-pirojnoe_1568974332_1_max.jpg",
-      "Price": 150,
-      "MenuItemId": 1
+      "id": 1,
+      "Name": "Муссовое пирожное",
+      "ImagePath": "https://static.tildacdn.com/tild3236-6531-4738-a166-316231646235/d8d12960ece444c8dd4d.jpg",
+      "Price": 50,
+      "MenuItemId": 13
     },
     {
       "categoryId": 0,
+      "id": 0,
       "Name": "Вишнёвый чизкейк",
-      "ImagePath": "https://o-tendencii.com/uploads/posts/2022-02/1645829104_5-o-tendencii-com-p-chizkeik-s-vishnei-foto-5.jpg",
+      "ImagePath": "https://static.1000.menu/img/content/9500/vishnevji-chizkeik_max_2797.JPG",
       "Price": 270,
-      "MenuItemId": 2
+      "MenuItemId": 14
     },
     {
       "categoryId": 0,
+      "id": 0,
       "Name": "Черничный чизкейк",
       "ImagePath": "https://kepoper.com/wp-content/uploads/2020/10/loveandoliveoil.jpg",
       "Price": 270,
-      "MenuItemId": 3
+      "MenuItemId": 15
     },
     {
       "categoryId": 0,
+      "id": 0,
       "Name": "Лимонный чизкейк",
       "ImagePath": "https://aroma-avenue.ru/wp-content/uploads/9/e/9/9e94d04c26a2968a3fbe7e3b281c82f5.jpeg",
       "Price": 270,
-      "MenuItemId": 4
+      "MenuItemId": 16
     }
   ]
 }
